@@ -1,0 +1,10 @@
+Package: EffectivePopSize
+Type: Package
+Title: Estimate effective population size using ld information
+Version: 0.1.0
+Author: Josephine Johnson
+Maintainer: The package maintainer <josephine.p.johnson@ndsu.edu>
+Description: It calculates Ne using Linkage disequilibrium file (.ld)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
